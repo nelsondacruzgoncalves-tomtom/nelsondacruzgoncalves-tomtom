@@ -1,4 +1,3 @@
-### Hi there 👋
+# :globe_with_meridians: :world_map: :compass: :traffic_light: :stop_sign: :fuelpump: :construction:
 
-:globe_with_meridians: :world_map: :compass: :traffic_light: :stop_sign: :fuelpump: :construction:
-:car: :blue_car: :taxi: :truck: :motorcycle: :rocket: :flying_saucer:
+# :car: :blue_car: :taxi: :truck: :motorcycle: :rocket: :flying_saucer:
